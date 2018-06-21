@@ -1,0 +1,11 @@
+{
+  "name": "koala",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BolajiOlajide/koala.git",
+  "author": "Bolaji Olajide",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
